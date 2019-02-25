@@ -43,19 +43,15 @@ This app is maintained by its sole contributor acbihm. This is my version of a h
 ____________________________________________________
 
 # Proof of LIRI Working
-"spotify-this-song" command
-!["spotify-this-song" command](assets/images/spotify1.png)
-"spotify-this-song" result
+
+* "spotify-this-song" Result
 !["spotify-this-song" result](assets/images/spotify2.png)
-"concert-this" command
-!["concert-this" command](assets/images/concert1.png)
-"concert-this" result
+
+* "concert-this" Result
 !["concert-this" result](assets/images/concert2.png)
-"movie-this" command
-!["movie-this" command](assets/images/movie1.png)
-"movie-this" result
+
+* "movie-this" Result
 !["movie-this" result](assets/images/movie2.png)
-"do-what-it-says" command
-!["do-what-it-says" command](assets/images/random1.png)
-"do-what-it-says" result
+
+* "do-what-it-says" Result
 !["do-what-it-says" result](assets/images/random2.png)
