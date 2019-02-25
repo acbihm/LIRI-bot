@@ -12,13 +12,13 @@ The current version allow a user to search for a movie, and LIRI will display in
 
 ## How to Use LIRI
 
-After cloning the repository, type in your terminal "npm install" to grab all relevant dependencies.
+After cloning the repository, type in your terminal `npm install` to grab all relevant dependencies.
 
 #### The commands are as follows: 
-* movie-this `movie-name-here`
-* spotify-this-song `song-title-here`
-* concert-this `artist-or-band-here`
-* do-what-it-says
+* `movie-this <movie-name-here>`
+* `spotify-this-song <song-title-here>`
+* `concert-this <artist-or-band-here>`
+* `do-what-it-says`
 
 ## How to Contribute to LIRI
 
