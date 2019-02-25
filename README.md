@@ -47,13 +47,13 @@ ____________________________________________________
 # Proof of LIRI Working
 
 * "spotify-this-song" Result
-!["spotify-this-song" result](assets/images/spotify2.png)
+!["spotify-this-song" result](assets/images/spotify1.png)
 
 * "concert-this" Result
-!["concert-this" result](assets/images/concert2.png)
+!["concert-this" result](assets/images/concert1.png)
 
 * "movie-this" Result
-!["movie-this" result](assets/images/movie2.png)
+!["movie-this" result](assets/images/movie1.png)
 
 * "do-what-it-says" Result
-!["do-what-it-says" result](assets/images/random2.png)
+!["do-what-it-says" result](assets/images/random1.png)
