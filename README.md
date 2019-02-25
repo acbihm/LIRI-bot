@@ -19,10 +19,10 @@ In the terminal, navigate into the `javascript` directory, inside the `assets` d
 Then, you can type any of these commands (replacing "<...>" with your search term(s))
 
 #### The commands are as follows: 
-* `node liri.js *movie-this* <movie-name-here>`
-* `node liri.js *spotify-this-song* <song-title-here>`
-* `node liri.js *concert-this* <artist-or-band-here>`
-* `node liri.js *do-what-it-says*`
+* `node liri.js movie-this <movie-name-here>`
+* `node liri.js spotify-this-song <song-title-here>`
+* `node liri.js concert-this <artist-or-band-here>`
+* `node liri.js do-what-it-says`
 
 Note about `do-what-it-says` command: The `random.txt` file contains a string that will be used for the `do-what-it-says` command, so that command in particular does not need a search term. You can edit the `random.txt` file's string to change what is being searched when the command is called. It can potentially call the other 3 commands, but currently it will call the `spotify-this-song` command.
 
@@ -38,7 +38,9 @@ This app is maintained by its sole contributor acbihm. This is my version of a h
 
 * The app would benefit from the ability to display concerts that are close to the user, rather than just all upcoming concerts with the `concert-this` command. 
 
-* When using `do-what-it-says`
+* When using `movie-this`, it will search for anything that it is given. Sometimes, results will not have a rating from IMDB or Rotten Tomatoes (or both). In this case, it attempts to run regardless. A future improvement will check if the rating is null or undefined, and will display "No rating found".
+
+
 
 ____________________________________________________
 
