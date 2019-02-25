@@ -1,4 +1,4 @@
-### LIRI-bot
+# LIRI-bot
 Language Interpretation and Recognition Interface
 
 ## What is LIRI?
