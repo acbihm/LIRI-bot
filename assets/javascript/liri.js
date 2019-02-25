@@ -108,6 +108,6 @@ function doThing(randomThing) {
     if (error) {
       return console.log(error);
     }
-    movieThis(data)
+    spotifyThis(data)
   });
 }
